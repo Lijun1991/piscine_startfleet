@@ -1,0 +1,6 @@
+worst cast O(n2)
+average case O(n log n)
+
+Worst cast O(n)
+average case O(log n)
+
