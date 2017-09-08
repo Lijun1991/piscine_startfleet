@@ -24,5 +24,12 @@
   Space Complexity
   
   binary search O(log(n))
+  
+  construct a list that is [0,1,2...10000]
+  ```
+  def method3():
+    l = [n for n in xrange(10000)]
+  ```
+  the most effective method is the built-in range() function in Python!
  
   
